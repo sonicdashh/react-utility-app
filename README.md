@@ -16,11 +16,4 @@ The React Todo App is an elegantly designed and user-friendly task management ap
 - **Responsive Design**: Access your tasks on various devices with a responsive user interface.
 
 
-## Installation
 
-To run the app locally, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/react-todo-app.git
